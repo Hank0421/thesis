@@ -1,6 +1,9 @@
 # Thesis
 This is my master thesis.
 
+Title:
+Cross Correlation: An Improvement for RENet on Few-Shot Learning
+
 Steps:
 1. Download CAA.zip
 2. Download the following four datasets:
